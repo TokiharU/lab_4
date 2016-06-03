@@ -2,5 +2,5 @@
 
 int sum ( int x, int y )
 {
-	return x + b;
+	return x + y;
 }
