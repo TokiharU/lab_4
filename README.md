@@ -1,2 +1,2 @@
 # lab_4 
-build status
+[![Build Status](https://travis-ci.org/TokiharU/lab_4.svg?branch=master)](https://travis-ci.org/TokiharU/lab_4)
